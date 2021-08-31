@@ -1,2 +1,4 @@
-# github-demo
-A simple repository to know the basic work flow of the git
+#Strater web project manasa
+##Manasa is a good girl
+## Manasa is a bad girl
+##Manasa is a worst girl
